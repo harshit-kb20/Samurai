@@ -1,0 +1,9 @@
+#top {
+  background-image: url('rain.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 50px;
+  color: black;
+  margin: 10;
+  padding: 5;
+}
